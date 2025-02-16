@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 ## About Me
-___
 Hi, I’m am particularly passionate about bridging theory foundation and real-world applications. Currently, I’m pursuing my PhD in the Control and Power Research Group at Imperial College London, where I explore data-driven and reduced-order modeling techniques to enhance control system efficiency. My academic journey has taken me across multiple institutions and disciplines—I earned my BEng in Electrical and Electronic Engineering from the University of Liverpool, followed by two master’s degrees: one in Control Systems from Imperial College London and another in Data Science and Machine Learning from University College London. Beyond the UK, I’ve had the opportunity to conduct research as a visiting PhD student at LAPLACE Laboratory, CNRS, in France. 
 
 When I’m not deep in research, I enjoy reading sci-fi novels, playing table tennis and basketball, and thinking about how AI can shape the future.  
