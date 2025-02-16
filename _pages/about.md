@@ -7,7 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
+## About Me
+---
+Hi, I’m am particularly passionate about bridging theory foundation and real-world applications. Currently, I’m pursuing my PhD in the Control and Power Research Group at Imperial College London, where I explore data-driven and reduced-order modeling techniques to enhance control system efficiency. My academic journey has taken me across multiple institutions and disciplines—I earned my BEng in Electrical and Electronic Engineering from the University of Liverpool, followed by two master’s degrees: one in Control Systems from Imperial College London and another in Data Science and Machine Learning from University College London. Beyond the UK, I’ve had the opportunity to conduct research as a visiting PhD student at LAPLACE Laboratory, CNRS, in France. 
+
+When I’m not deep in research, I enjoy reading sci-fi novels, playing table tennis and basketball, and thinking about how AI can shape the future.  
+
+Feel free to connect if you share similar interests or just want to chat about control theory, AI, or the best sci-fi books!
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
